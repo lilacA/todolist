@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex2_mobile</string>
+    <string name="Add">Add Element</string>
+    <string-array name="str_array">
+        <item>DELETE</item>
+    </string-array>
+
+</resources>
